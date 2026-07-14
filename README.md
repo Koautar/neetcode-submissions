@@ -85,4 +85,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/Koautar/neetcode-submissions/tree/master/1436-destination-city) |
+| [2490-circular-sentence](https://github.com/Koautar/neetcode-submissions/tree/master/2490-circular-sentence) |
 <!---LeetCode Topics End-->
